@@ -102,6 +102,8 @@ Pale White and Black are the most preferred car colors, indicating a strong cust
 Chevrolet is leading in terms of both sales volume and revenue, contributing the most to total sales. This indicates that Chevrolet's models are well-aligned with customer demand, making it a key brand to focus on.
 
 
+
+
 𝐑𝐞𝐜𝐨𝐦𝐦𝐞𝐧𝐝𝐚𝐭𝐢𝐨𝐧𝐬 𝐁𝐚𝐬𝐞𝐝 𝐎𝐧 𝐭𝐡𝐞 𝐈𝐧𝐝𝐢𝐠𝐡𝐭𝐬 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝:
 
 1.) 𝐅𝐨𝐜𝐮𝐬 𝐨𝐧 𝐏𝐨𝐩𝐮𝐥𝐚𝐫 𝐌𝐨𝐝𝐞𝐥𝐬:
