@@ -8,7 +8,7 @@ This project involves building an interactive Car Sales Dashboard using **Power 
 
 ## 🎯 Objective
 
-Design and develop a dynamic dashboard to visualize key performance indicators (KPIs) for car sales data. The dashboard helps monitor performance, identify trends, and support business decisions with data insights.
+The main goal was to enable stakeholders to monitor sales performance using KPIs like Total Sales, Cars Sold, and Average Price, along with year-over-year growth and comparisons with the previous year's data. The dashboard helps identify high-performing models, track trends by body style, color, and company, and optimize sales strategies accordingly.
 
 ---
 
